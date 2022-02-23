@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter concerning the Iesuites</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47966</idno>
+            <idno type="STC">Wing L1352</idno>
+            <idno type="STC">ESTC R7624</idno>
+            <idno type="EEBO-CITATION">13102044</idno>
+            <idno type="OCLC">ocm 13102044</idno>
+            <idno type="VID">97415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97415)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 744:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter concerning the Iesuites</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97415:1"/>
+            <pb facs="tcp:97415:1"/>
+            <p>
+               <hi>A LETTER</hi> CONCERNING THE <hi>IESUITES.</hi>
+            </p>
+            <q>
+               <bibl>2 <hi>Eſdras chap.</hi> 2. <hi>verſ.</hi> 18.</bibl>
+               <p>And I ſhewed them the hand of my God, that it was with me; and I ſaid, Let us riſe, and let us build, and their hands were encouraged in Good. But <hi>Sana<g ref="char:EOLhyphen"/>ballat —Tobias</hi> the ſervant, and <hi>Goſem—</hi> heard of it, and they ſcorned us and deſpiſed us, and ſaid, What is this thing you do? Why do you rebell againſt the King? And I anſwered to them, and ſaid to them, The God of heaven he helpeth us, and we are his ſervants: Let us riſe and build: but you have no part, nor juſtice nor memory in <hi>Jeruſalem.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Printed in the Year</hi> 1661.</p>
+            <pb facs="tcp:97415:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:97415:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IF my ability were equal to my will, or to the equity of their cauſe, this Anſwer would prove ſatisfactory to your demands. For you ask, Whether the ſcandalous Reports, and malicious Libels lately vented againſt the <hi>Society,</hi> have as much real truth as they ſeem to carry Gall? And your Motives are why you chuſe me to ſolve your Doubt, (1) becauſe you know I received my education for many years amongſt them. (2) And being now actually a profeſt Religious of an other Order, you conceive, that I ſhall impart my judgment with leſs partiality.</p>
+            <p>In criminal matters, <hi>de non apparentibus &amp; non exiſtentibus eadem eſt ratio;</hi> And truly, Sir, to be daily converſant with Perſons of all Ages, of all Tempers, in ſeveral emergent occaſions, (when naturally mens humors ſtart forth) and that theſe perſons ſhould be inwardly corrupted with horrid opinions, and yet ne<g ref="char:EOLhyphen"/>ver break out into word or deed, would be an hypo<g ref="char:EOLhyphen"/>criſie almoſt miraculous, and render the Profeſſors of Vertue and Vice indiſtinguiſhable.</p>
+            <p>Muſt the faſhion of ſuch a Gown, or ſuch a Caſſock, with the name <hi>Jeſuite,</hi> be the onely marks to notifie ſuch Impoſtors? Certainly Chriſt hath ſet other Sea-marks to avoid theſe Rocks of perdition, <hi>E fructibus eorum cognoſcetis eos.</hi>
+            </p>
+            <p>
+               <note place="margin">To promote <hi>Mental Prayer,</hi> the firſt mark of a <hi>Jeſuit.</hi>
+               </note> That great Inſtrument of Piety <hi>Mental Prayer,</hi> which before was as a hidden treaſure, cloyſtered up
+<pb n="2" facs="tcp:97415:3"/>
+in Monaſteries, is by their induſtry ſo univerſally laid open, that millions of men, who could hardly have been drawn into the outward porches of God's Temple, have by this Soul-refreſhing-prayer ended their days in the <hi>Holy</hi> of <hi>Holies.</hi>
+            </p>
+            <p>Conſider the Propheſie of Abbot <hi>Joachim,</hi> cited by the learned <hi>Stapleton</hi> in teſtimony of the <hi>Society; In<g ref="char:EOLhyphen"/>ſurget una nova Religio ſanctiſſima, quae erit libera &amp;</hi> 
+               <note place="margin">In prompt. Mo<g ref="char:EOLhyphen"/>rali in Domini<g ref="char:EOLhyphen"/>cam infra Oct. Nat. Dom. textu primo.</note> 
+               <hi>ſpiritualis, in qua Romani Pontifices, potiti pace Eccle<g ref="char:EOLhyphen"/>ſiae, ſe continebunt. Quam Religionem &amp; ordinem Deus ſuper omnes alios diliget, quia perfectio illius vincet omnes alias aliorum Ordinum.</hi> How directly this Pre<g ref="char:EOLhyphen"/>diction points at the <hi>Society,</hi> I will not engage with Oppoſers; but me-thinks the judicious eye of learned <hi>Stapleton</hi> would never in his application have aimed at the <hi>Jeſuites,</hi> unleſs the ſpecifical marks intended by the Propheſie were in them viſibly apparent. Think but of the multitude of diſſolute and carnal perſons, who at firſt either out of curioſity, importunity of friends, or remorſe of conſcience, have enter'd their ſpiritual Exerciſe; and conſider how they have return'd like Gold out of the Furnace, become joy to Angels, and high examples of a heavenly reformation. Give glory to God, and let <hi>Envy</hi> ſay, <hi>Digitus Dei hic eſt.</hi>
+            </p>
+            <p>That tedious and inſiped employment of Cate<g ref="char:EOLhyphen"/>chiſing and Teaching Children, which no wo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldly ho<g ref="char:EOLhyphen"/>nor, but much labour and patience attends, is the inſtitution of the <hi>Society,</hi> nay, the main Pillar that ſup<g ref="char:EOLhyphen"/>ports the Structure, to the great advancement of Chri<g ref="char:EOLhyphen"/>ſtianity, and confuſion of Hereſie. In this charge I have known <hi>Jeſuits,</hi> who (after they had laudably performed the chiefeſt Offices in the <hi>Society)</hi> have ſpent with alacrity the remainder of their days. If you turn them out of Schools, ſhut the doors after, for 'twill then be ſadly verifi'd, <hi>Parvuli petierunt panem (vitae &amp; diſciplinae) &amp; non erat qui daret eis.</hi>
+            </p>
+            <p>This is the Fruit which the Tree bears, and all paſ<g ref="char:EOLhyphen"/>ſengers
+<pb n="3" facs="tcp:97415:3" rendition="simple:additions"/>
+may behold it, if they pleaſe but with a chari<g ref="char:EOLhyphen"/>table hand to remove the leaves, and gather thereof.</p>
+            <p>I am confident ſince my remembrance, almoſt a thouſand Youths of this Nation have been ſucceſſively in their Schools; produce of them one ſufficient wit<g ref="char:EOLhyphen"/>neſs that will atteſt, that he was ever taught opinions either to Neighbour or Magiſtrate pernicious, or when they laid their ſouls open for remedy of ſins, which youth or folly might have led them unto, whether applyed found thoſe abhominable caſes applyed to their ſouls for cure, or not rather the wine and Oyl of the good Samaritan poured into their wounds.</p>
+            <p>A ſubſtantial part of the Engliſh Clergy owe thoſe Talents of learning and vertue, with which they are endued, to the Schools of the <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oiety:</hi> and the holy Orders of St. <hi>Bennet</hi> and St. <hi>Francis</hi> acknowledge a high obligation for many eminent Perſons now incor<g ref="char:EOLhyphen"/>porated amongſt them. Can any body think, that the <hi>Jeſuits</hi> are the monſters that breed all ſedition and damnable opinions, and that none of thoſe ſhould riſe in judgment againſt them? But on the contrary, the beſt Biſhops of all Nations require daily their aſſi<g ref="char:EOLhyphen"/>ſtance; the wiſeſt and holieſt of <hi>Benedictine</hi> Abbots have been their Friends and Founders.</p>
+            <p>If the Intereſt of the Society were any thing elſe but God's honor and glory, or were the <hi>Jeſuits</hi> ſuch ſelf<g ref="char:EOLhyphen"/>ſeekers as ſome pretend, could it poſſibly be hidden from ſuch judicious and pierceing eyes? A chief Su<g ref="char:EOLhyphen"/>perior of the Engliſh <hi>Benedictine</hi> Congregation, a man deeply learned, who wanted neither opportunity nor judgment to diſcover fallacies, gave this recommen<g ref="char:EOLhyphen"/>dation of the <hi>Society</hi> to his Subjects, <hi>Amicitiam co<g ref="char:EOLhyphen"/>latis,</hi> 
+               <note place="margin">
+                  <hi>P. Rudiſindus Barl. in Epiſt.</hi> 3. <hi>ad Mona<g ref="char:EOLhyphen"/>chos in Apoſto<g ref="char:EOLhyphen"/>lica Miſſione laborantes:</hi>
+               </note> 
+               <hi>maxime cum Reverendis Patribus Societatis Jeſu, quorum &amp; numerus eſt in Miſſione perilluſtris, &amp; gravi<g ref="char:EOLhyphen"/>tas, eruditio, ſanctit as ac prudentia tanta, ut merito ab omnibus piis inter praeſtantiſſimos Chriſti Operarios ſumma cum veneratione cenſenntur.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:97415:4" rendition="simple:additions"/>
+Shall now a few perſons, that never were in their Colledges (unleſs in the quality of an invited gueſt, who, I hope, retain not the bitter leven of an old cor<g ref="char:EOLhyphen"/>ruption) be preferr'd before ſuch a Clowd of dome<g ref="char:EOLhyphen"/>ſtick and honorable Witneſſes? That Monſter of a <note n="*" place="margin">The unreaſo<g ref="char:EOLhyphen"/>nable Reaſons.</note> Libel, that ravening Wolf, whoſe paſſion ſtript him of the very voice of truth, who had impudence enough to vent falſities of Mr. <hi>Simmons</hi> and others, when the world was able to ſhame <hi>Crimine ab uno diſce omnes.</hi> With how much braſs muſt that countenance be cover'd, who could accuſe Mr. <hi>Simmons</hi> of pro<g ref="char:EOLhyphen"/>curing at <hi>Rome</hi> the condemnation of certain Propo<g ref="char:EOLhyphen"/>ſitions, when there are many in <hi>London</hi> that can avouch, he employ'd his whole intereſt to effect the contrary? Never more let the Author ſet Pen to Pa<g ref="char:EOLhyphen"/>per, unleſs it be to ſign his Recantation: He that will commit ſuch blind errors at noon-day, may well ſtumble in the dark when he rakes the aſhes of the dead; who, under the name of Catholick, does blaſt more fowlly the memory of thoſe dead Perſons, than the ſurviving Records of their Examination.</p>
+            <p>The ſtraw of <hi>F. Garnet</hi> weakly urged by the Li<g ref="char:EOLhyphen"/>beller might with more humanity have been conclud<g ref="char:EOLhyphen"/>ed the ſign of God's accepting his repentance, (if guilty) then an argument of the <hi>Society</hi>'s evil diſpo<g ref="char:EOLhyphen"/>ſition, ſince all know, 'twas a crime deteſted by him at his execution, by all living now abhorr'd, and by modeſt Proteſtants charitably forgotten. Sum up <hi>Cook</hi>'s Rhetorical Hyperboles, and Indepent Conſe<g ref="char:EOLhyphen"/>quences, and in a juridical Arithmetick, they amount onely to accuſe <hi>F. Garnet</hi> of the knowledge receiv'd in Confeſſion of the intended miſchief. But this Au<g ref="char:EOLhyphen"/>thor with undigeſted choler, beyond the officiouſneſs of an Attorney General, charges the very heart with Treaſon, and impails the whole <hi>Society</hi> in an heredi<g ref="char:EOLhyphen"/>tary guilt. But 'tis to be noted, that this ſtrong and undeniable concluſion muſt be gathered from ſtraws.
+<pb n="5" facs="tcp:97415:4"/>
+Surely in this Pamphlet, the onely Title by which he appears Catholick, is his general calumny. <hi>Sanderſon</hi> in the Hiſtory of King <hi>James</hi> ſays, That 'twas a great affliction to <hi>F. Garnet</hi> at his Trial, that he ſhould not be inrolled a Martyr. Now grant this ſuppoſition to be true, it follows evidently, that he conceived the <hi>Society</hi> (by whom his Canonization ſhould have been pro<g ref="char:EOLhyphen"/>moted) to abhor thoſe traiterous attempts.</p>
+            <p>With what ſpirit could he calumniate all foreign Miſſioners, (nay, a <hi>Xauerius</hi> is not excluded his Ca<g ref="char:EOLhyphen"/>talogue) when the Barbarians upon the account of their ſanctly converſation, uſed them with a civi<g ref="char:EOLhyphen"/>lity, that would have confounded the malice of this Author. Certainly the very names of <hi>Japonian Mar<g ref="char:EOLhyphen"/>tyrs</hi> would be ſo many divine Exorciſms, to expel this ſpirit of detraction. To paſs over many of our Engliſh Fathers, that have forſaken the embraces of all worldly content, to ſpend amongſt Savages their days in preach<g ref="char:EOLhyphen"/>ing and want, I will onely mention venerable Father <hi>White,</hi> who would have had more Pagans to teſtifie his ſanctity, then I think this Libeller can ween Believers of his forgeries and ſcandals. To ſay, That none goes into that Miſſion but who are weary of their Colleges, is a proof (for the ſuggeſting which) <hi>Bale</hi> and <hi>Oſyander</hi> would have thankt him, when was their Task to maintain, that St. <hi>Auſtin</hi> the Monk converted the <hi>Engliſh-Saxons</hi> from Bad to Worſe, from Pagan Ido<g ref="char:EOLhyphen"/>latry to Popiſh Superſtion.</p>
+            <p>The beſt prayer and excuſe that Charity can imagine, is, <hi>Pater, dimitte illis, non enim ſciunt quid faciunt.</hi>
+            </p>
+            <p>But the acknowledging in Popes a power of depo<g ref="char:EOLhyphen"/>ſing Kings, is the crime which arms all loyal hearts againſt <hi>Jeſuits;</hi> this, this is the Article of faith proper to the <hi>Society!</hi> for the condemning which, Racks and Laws have been invented: Here is the <hi>Jonas,</hi> who have cauſed all the ſtorms of Perſecution on Catholicks.</p>
+            <p>Before we let reaſon paſs ſentence upon the <hi>Jeſuits,</hi>
+               <pb n="6" facs="tcp:97415:5"/>
+theſe following conſiderations ought to be weighed.</p>
+            <p>A Congregation held 1606. and confirmed by their General <hi>Claudius Aquaviva,</hi> commanded all Subjects of the <hi>Society,</hi> in vertue of holy obedience, to forbear the teaching, that Popes can depoſe Princes. By this 'tis evident, that <hi>Jeſuits</hi> conceive this Depoſing Power to be no part of their belief: For 'tis an obligation indiſpenſable to all Chriſtians, not onely to believe all Articles of Faith, but alſo openly to profeſs them when occaſion requires; and no command of any Superior whatſoever can excuſe him from being an Apoſtata, who publickly, or by ſilence, tacitly denies or refuſes to profeſs any Article, though his inward perſwaſion be the contrary.</p>
+            <p>Upon examination we ſhall find, that this pre<g ref="char:EOLhyphen"/>tended Article of Faith ſhrinks into a Problematical Doctrine, which (having its Full and Wane, according to the Conjunction with States and Perſons) muſt ne<g ref="char:EOLhyphen"/>ceſſarily cauſe a Schiſm, if we impute Hereſie to the Maintainers either of the Affirmative or negative part; for, as Unity in Faith is the foundation of Com<g ref="char:EOLhyphen"/>munion Eccleſiaſtick, ſo Hereſie is a crime of that high nature, as it denounces <hi>ipſo facto</hi> Separation. Hence the incommodious and circumſtantial expreſſion of diſavowing the Depoſing Power as Heretical, in the Oath of Allegiance, bars not onely <hi>Jeſuits,</hi> but all Catholicks from taking it. When I deteſt from my heart all opinions offenſive to Government, that man<g ref="char:EOLhyphen"/>ner of expreſſing, which adds nothing of ſecurity to my Prince, but evidently cauſes a rent amongſt Chriſti<g ref="char:EOLhyphen"/>ans, and caſt dirt upon our fore-fathers, ought to be carefully avoided. If I am required to lay down my Arms, 'twould be malice to caſt them in ſo unlucky a poſture, as thereby to wound my Neighbour.</p>
+            <p>Upon the Parricide of <hi>Henry</hi> the Fourth, the Par<g ref="char:EOLhyphen"/>liament of <hi>Paris</hi> (ſeeing no Arreſt of Theirs could defend the Kings life, againſt a Villain that will con<g ref="char:EOLhyphen"/>temn
+<pb n="7" facs="tcp:97415:5"/>
+his own) publiſhed a Decree of the Council of <hi>Conſtance,</hi> judging the Churches <hi>Anathema</hi> to be more powerful in deterring Subjects from ſuch wicked attempts, ſince this retains its full force, when Racks and Wheels, with the corporal death, ſurceaſes. Thus ſpeaks the Synod, <hi>ſſ.</hi> 15. <q>We have been lately in<g ref="char:EOLhyphen"/>formed, that certain erronious opinions are holden, contrary to peace, and good eſtate of the Common<g ref="char:EOLhyphen"/>wealth, <hi>viz.</hi> That a Tyrant may be lawfully and me<g ref="char:EOLhyphen"/>ritoriouſly taken away, and killed by any Subject or Vaſſal of his, notwithſtanding whatſoever Oath of Fidelity or Allegiance that he hath made to him. Such Doctrine is contrary both to Faith and Man<g ref="char:EOLhyphen"/>ners, and whoſoever ſhall hold it pertinaciouſly are Hereticks, &amp;c.</q>
+            </p>
+            <p>He is no <hi>Jeſuit</hi> that will not (if occaſion require) ſeal this Doctrine with his blood; and certainly this Canon is a great defence to all Princes, againſt Re<g ref="char:EOLhyphen"/>bellions and ſecret Machinations: And when the Pope does depoſe Princes, (that are foedary to the See of <hi>Rome)</hi> in the caſe of Infidelity or Hereſie, he utterly <note place="margin">Card. <hi>Peron.</hi> The Oath of Allegiance.</note> diſallows the aſſaſſination of them; the prayer of the Church being againſt ſudden and unprovided death, but leaves them to the Imperial Laws: As when Bi<g ref="char:EOLhyphen"/>ſhops declare ſuch to be Hereticks, they intermeddle not with ſanguinary puniſhments, but deliver them to the Magiſtrate.</p>
+            <p>We ſee Land held by certain Tenures, does, upon breach of cuſtoms or particular covenants, eſcheat to the Lord: and when the Principalitie of <hi>Parma</hi> was given by the Pope, 'tis not to be doubted, but that ſuch a Proviſo was inſerted in the Deed; that in caſe of Infidelity or Hereſie he loſt all right thereunto; and that the gift, as alſo in default of iſſue, ſhould return to the Donor.</p>
+            <p>
+               <hi>Granado</hi> and <hi>Navar</hi> were made Foedary to the Pope under <hi>Julius</hi> the Second; <hi>Naples</hi> ſendeth a
+<pb n="8" facs="tcp:97415:6" rendition="simple:additions"/>
+Palfrey, as a Heriot due to the Church of <hi>Rome:</hi> The <hi>Canaries, Heſperides,</hi> and <hi>Gorgon</hi> Iſlands, were ſubjected to the See of <hi>Rome,</hi> under the chief Rent of 400 <hi>Flo.</hi> by <hi>Lewis</hi> of <hi>Spain:</hi> and of both the <hi>Indies, Alexander</hi> did reſerve the Regalities. Since there are ſuch Princes, who have ſubmitted their Thrones to the Chair of St. <hi>Peter;</hi> without doubt 'twould be a teme<g ref="char:EOLhyphen"/>rarious Oath to forſwear in general terms a Depoſing Power in the Pope, but to deteſt it as an Hereſie, would be abſolutely Schiſmatical; although to deny the effect of ſuch a Power in <hi>England</hi> might be done upon prudential grounds; and, I think, there are divers con<g ref="char:EOLhyphen"/>ſiderable reaſons which may guard the Aſſertion againſt Oppoſers.</p>
+            <p>
+               <note place="margin">Engubinus.</note> 
+               <hi>Conſtantine,</hi> in his Dotation of the Church, where many Kingdoms are made Foedaty to the Papacy, <hi>England</hi> is not nam'd, as if the Emperor would have reſerved the place of his nativity from all Temporal ſubjection whatſoever.</p>
+            <p>Never by any Act of Parliament was this Nation in Vaſſallage concerning Temporals to the Pope; but on the contrary, many Laws have been enacted in cutting off incroachments of the Papal Temporal Power: And although ſome object, that King <hi>John</hi> did ſubmit his Kingdoms to <hi>Innocentius</hi> the <hi>3d.</hi> yet, the Deed of Conveyance lies ſo dormant in the <hi>Vatican,</hi> that it could never be awak'd or produc'd upon any provocation. And Sir <hi>Thomas Moor,</hi> the juſt Aſſertor <note place="margin">p. 296.</note> of the Pope's ſpiritual juriſdiction, denieth, that King <hi>John</hi> either did or could make <hi>England</hi> ſubject to the Pope. Neither is it to be objected, that <hi>Peter<g ref="char:EOLhyphen"/>pence,</hi> or <hi>Rome-Scot</hi> were Duties, but Alms, for in our antient Authors they are termed, the one, <hi>Elemo<g ref="char:EOLhyphen"/>ſpia Regis,</hi> the other, <hi>Larga benignitas Regis,</hi> which truly would be very improper expreſſions, to ſignifie a Tribute or marks of Subjection. Hence I gather, that we may conſcientiouſly promiſe; notwithſtanding the
+<pb n="9" facs="tcp:97415:6" rendition="simple:additions"/>
+Depoſing Power the Pope may have over other Princes, yet we will never put in execution the ſaid Power as concerning <hi>England,</hi> to which all <hi>Jeſuits</hi> by Oath will engage themſelves, though the particular Covenants and Agreements of other Nations with the See of <hi>Rome,</hi> would cauſe a ſcruple, to aſſert the ſame Propoſition in unlimited terms.</p>
+            <p>As 'tis objected by their Adverſaries, that they were baniſhed for this opinion out of <hi>France</hi> and <hi>Venice;</hi> ſo likewiſe it might be pleaded, that by the ſame States they have been recall'd: The Magiſtrate condemning onely to the fire Books of a few Authors, who held forth thoſe dangerous Tenets, and did not (as ſome do) caſt with a poiſonous breath the aſhes of a burnt Do<g ref="char:EOLhyphen"/>ctrine into the faces of the Innocent.</p>
+            <p>But to gratifie their Adverſaries, ſuppoſe them all guilty, and that they were required to give ſatisfaction before their re-admittance; the ſame aſſurance of Loyalty will be joyfully given (when demanded) to our preſent Powers: And I hope, that ſecurity of Al<g ref="char:EOLhyphen"/>legiance, which fully appeaſed the jealouſies of <hi>France</hi> and <hi>Venice,</hi> may prove ſufficient for <hi>England.</hi>
+            </p>
+            <p>There is no Nation in Chriſtendom keeps a ſtricter Eye upon the Popes growing Power than <hi>France,</hi> and yet the <hi>Jeſuits</hi> are no where in greater eſteem than there. <hi>Henry</hi> the <hi>4th.</hi> in whoſe Reign they were ex<g ref="char:EOLhyphen"/>pelled the Kingdom, appear'd an earneſt Advocate for their re-admiſſion, and in requital of the <hi>Jeſuits</hi> du<g ref="char:EOLhyphen"/>tiful affections to him living, he bequeath'd his Royal Heart to them in his laſt Will and Teſtament: And his Succeſſors have conſtantly committed their Souls to the direction of certain Fathers of the Society; and what power and credit they now have at Court, let the <hi>Janſeniſts</hi> (who are moſt ſenſible thereof) declare.</p>
+            <p>It muſt then be concluded, that either the Kings and Miniſters of State in <hi>France</hi> are weak Polititians, to nouriſh theſe Serpents in their boſoms; or elſe we muſt
+<pb n="10" facs="tcp:97415:7"/>
+believe, that the <hi>Jeſuits</hi> are good Citizens, and hold Principles conſiſtent with Loyalty.</p>
+            <p>The Government of the Society is Monarchical, the Supreme Power reſiding in the General, all other Officers are conſtituted by his approbation, and, upon miſdemeanors, by him may be diſplaced; therefore even to be right <hi>Jeſuits,</hi> they muſt neceſſarily ſuck with their education Maxims very agreeable to Monarchy and Regal Power. And may be this very conſideration did not a little retard the wary <hi>Venetians,</hi> from grant<g ref="char:EOLhyphen"/>ing ſo ſpeedy a re-eſtabliſhment into their Common<g ref="char:EOLhyphen"/>wealth, eſpecially the Monarchs of <hi>France, Spain,</hi> and <hi>Germany</hi> being their earneſt Solicitors.</p>
+            <p>The Rebels in <hi>Bohemia</hi> did believe the <hi>Jeſuits</hi> to be of ſuch a Monarchical temper, that they conceived themſelves not ſufficiently ſecur'd in their ways, by throwing headlong the Imperial Commiſſioners out of a high Tower in <hi>Prague,</hi> unleſs they had compleated their work by expelling the <hi>Jeſuits,</hi> which they pre<g ref="char:EOLhyphen"/>ſently performed. Cardinal <hi>Richeleu,</hi> after the Siege of <hi>Rochel,</hi> erected there a Colledge of <hi>Jeſuits,</hi> judg<g ref="char:EOLhyphen"/>ing that more effectual to contain the Revolters in their due obedience to his Chriſtian Majeſty, than any Cittadel or Canons the <hi>ultima ratio Regum.</hi>
+            </p>
+            <p>Many are the inſtances of this nature, not to be comprehended within the limits of a Letter: There<g ref="char:EOLhyphen"/>fore I will conclude with the conſtant practiſe of the *<note place="margin">Alexander.</note> Prince of <hi>Parma,</hi> who whereſoever he rooted out Rebels, he always planted <hi>Jeſuits.</hi>
+            </p>
+            <p>The reſult of this Diſcouaſe demonſtrates, that law<g ref="char:EOLhyphen"/>ful Governors have always found in the hearts of <hi>Jeſuits</hi> a Soveraign Antidot againſt the poiſon of Re<g ref="char:EOLhyphen"/>bellion, and that Uſurpers muſt ſend away the Ark, if they will have their <hi>Dagon</hi> ſtand. But the Pamphleter ſhall have his choice, either to be buſie in piecing up broken <hi>Dagon,</hi> or with the Ark return to <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:97415:7"/>
+The Actions committed in Queen <hi>Elizabeths</hi> Reign I will not defend; and if I ſhould accuſe the <hi>Jeſuits</hi> to be the onely cauſes of the <hi>Penal Statutes</hi> then enacted, all Hiſtorians would confute me: Yet this I believe is a great truth, that if the Title of the Queen of <hi>Scots</hi> (to favour which <hi>Cataolicks</hi> were ſuſpected, and thence ſprung the Sanguinary Laws) were now to be argued, it might be done with more thanks, and leſs contradiction.</p>
+            <p>For Queen <hi>Mary</hi> of <hi>England</hi> and Queen <hi>Elizabeth</hi> could not both pretend a Title to the Crown, as right Heirs, unleſs the Parliament had ſupplyed a Defect in the one; and whether the power of any Parliament (unleſs it be a <hi>Rump-Parliament)</hi> extends ſo far as to diſpoſe of Crowns, let thoſe whom it may concern, judge.</p>
+            <p>If the <hi>Jeſuits</hi> were faulty, 'twas but in antedating their Allegiance to the Sacred Family of the <hi>Stuarts;</hi> and ſince <hi>Hales</hi> and voluminous Sir <hi>N. B.</hi> and many other Proteſtants did not receive a juſt puniſhment for promoting the Title of <hi>Suffolk,</hi> I ſee not why the <hi>Jeſuits</hi> may not deſerve a commendation, their Tranſ<g ref="char:EOLhyphen"/>greſſion (if it muſt be ſo called) being in the hap<g ref="char:EOLhyphen"/>pier extreme. But thoſe that kept the middle and ſurer way, in defending againſt <hi>Hales</hi> and the like Caball, Queen <hi>Mary's</hi> right in ſucceeding after Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> were Sir <hi>Anthony Browne</hi> Chief Juſtice in the <hi>Common Pleas,</hi> and <hi>I. C.</hi> (who for his eminent know<g ref="char:EOLhyphen"/>ledge was commonly called the Father of the Law) both <hi>Catholicks</hi> and Friends to the <hi>Society.</hi> But it may be remembred to the immortal praiſe of Father <hi>Parſons</hi> and Father <hi>Campian,</hi> who procured a mitiga<g ref="char:EOLhyphen"/>tion of the Sentence Declaratory of <hi>Pius Quintus</hi> againſt Queen <hi>Elizabeth,</hi> and Pope <hi>Gregorie</hi> follow<g ref="char:EOLhyphen"/>ing declared that <hi>The Subjects of</hi> England <hi>ought to per<g ref="char:EOLhyphen"/>form all duties to the Queen notwithſtanding the Cen<g ref="char:EOLhyphen"/>ſures,</hi> and whatſoever their inward judgments might
+<pb n="12" facs="tcp:97415:8"/>
+be concerning her Title, yet after the Parliament had acknowledged her as lawful Queen, all Civil obedi<g ref="char:EOLhyphen"/>ence was moſt exactly paid. And this may be lookt upon with a gracious eye, that the preſent State of <hi>England</hi> owes more to <hi>Cauſin</hi> the <hi>Jeſuit</hi> for publiſhing to the world thoſe deſerv'd <hi>Encomiums</hi> of the Heroick Queen of <hi>Scots,</hi> then it does to <hi>Buchanan</hi> (ſuborn'd by <hi>Murrey,</hi> and countenanc'd by a domineering Fa<g ref="char:EOLhyphen"/>ction then in <hi>England)</hi> for his defaming and falſe detections.</p>
+            <p>Religious perſons can appear in no other Arms for the defence of Juſtice, then in ſervent prayers and wholſome counſels; theſe weapons the <hi>Jeſuits</hi> did not want in our late Wars: Their lives they did expoſe to hazzard in aſſiſting His Majeſties Catholick Subjects; and they were waiting to perform their Function with<g ref="char:EOLhyphen"/>in the reach of the ſame ſhots that depriv'd His Ma<g ref="char:EOLhyphen"/>jeſty of two moſt loyal Servants, Collonel <hi>Gage</hi> and Sir <hi>John Smith.</hi> Paſſages acted in private I will not produce. I will onely deſire a reflection upon Mr. <hi>Wright</hi> (who aſſiſted Collonel <hi>Gage</hi> at his death) when being arraign'd and condemn'd in the time of the <hi>Rump-Parliament,</hi> for being a <hi>Jeſuitical Prieſt;</hi> his intimate friendſhip with Collonel <hi>Gage</hi> an enemy to the State, was at the Bar violently urg'd againſt him.</p>
+            <p>The condition of our preſent King was ſo deplora<g ref="char:EOLhyphen"/>ble that it did require the immediate hand of God to apply a remedy, all humane induſtry being at a ſtand; but their prayers were alwayes imploring Gods mercy on our preſſing miſeries. And whenſoever His Sacred Majeſty was pleaſed to honour their Colledges with His Preſence, all dutiful reſpect did wait on His Royal Perſon: and they did extend the utmoſt of their abilities in relieving His needy and ſick followers. Surely had Treaſon and malicious thoughts lodged in their hearts, it might have then appear'd by ſome diſ<g ref="char:EOLhyphen"/>dainful
+<pb n="13" facs="tcp:97415:8"/>
+action, when no diſadvantage could accrew thereby; but on the contrary, it might have been countenanced both abroad and at home.</p>
+            <p>I have given a glance on all the Times ſince <hi>Jeſuits</hi> ſet footing in <hi>England,</hi> but what proofs can ſuffici<g ref="char:EOLhyphen"/>ently convince their Adverſaries, ſince the Laws have confin'd them to a diſguiſe? Yet here are evident ſymp<g ref="char:EOLhyphen"/>tomes of a healthful body. To frame a right judgment of a Corporation; (1) The perſons that unite ought to be lookt into. (2) The courſe which they hold in their proceedings, muſt be examined according to the ſtan<g ref="char:EOLhyphen"/>dard of juſtice. (3) And laſtly, there muſt be an eye on what deſign their actions terminate. Theſe three quali<g ref="char:EOLhyphen"/>ties are highly eminent in the <hi>Society.</hi> (1) The holineſs of its firſt Inſtitutors God did proclaim to the whole world by Miracles. (2) Their Laws and Rules bind them up in a moſt ſtrict obedience both to God and Man. (3) The aim of all their labours is the ſalvation of their owne and their Neighbours Soul. Particulars ought no more to prejudice a whole Body, than a <hi>Judas</hi> may defame the College of Apoſtles. Nor is there any underſtanding ſo voyd of natural Logick as to con<g ref="char:EOLhyphen"/>clude the innocent with the guilty; yet when we re<g ref="char:EOLhyphen"/>duce this principle to practiſe, our paſſions hurry us with ſuch a violence, that in rooting up the tares we frequently trample down the corn. Cenſurers ought to be mindful of the Aphoriſm of St. <hi>Ambroſe, Saepe in judicando majus eſt peccatum judicii, quam peccati illius, de quo fuerat judicatum.</hi>
+            </p>
+            <p>
+               <hi>Sir,</hi> I am afraid in complyance with your com<g ref="char:EOLhyphen"/>mands, I have by this weak Defence betray'd the juſt<g ref="char:EOLhyphen"/>neſs of their Cauſe, which no body could have defen<g ref="char:EOLhyphen"/>ded better than themſelves, if they had not been plea<g ref="char:EOLhyphen"/>ſed rather <hi>Sicut Agnus coram tondente,</hi> to endure the ſharpneſs of reviling tongues with a Chriſtian patience: permitting thoſe Libellers as ſo many murmuring
+<pb n="14" facs="tcp:97415:9"/>
+waves to daſh themſelves againſt the ſilent Rock, and vaniſh, according to our great exemplar Chriſt, when the witneſſes were not ſufficient, nor the proofs con<g ref="char:EOLhyphen"/>vincing he never opened his mouth to anſwer malice. <hi>Sir,</hi> In this Letter you have not only my opinion of them, but alſo the reſpects to your ſelf</p>
+            <closer>
+               <signed>Of a moſt affectionate Friend.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
